@@ -11,5 +11,4 @@ For a complete description of all the variables included visit [iNaturalist's](h
 **Chicken_of_the_Woods_Analysis.Rmd**: The R Markdown file containing all the code to reproduce the results in the analysis.
 
 # RESULTS:
-**Chicken_of_the_Woods_Analysis.html**: The knit R Markdown file illustrating the analytic results within an html file format.
 **ChickenOfTheWoods_weekly.gif**: A gif visualizing the distribution of aggregated Chicken of the Woods observations per week over the course of the year.
