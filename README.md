@@ -1,4 +1,5 @@
 # Best Date to Find Chicken of the Woods Mushroom!
+## Table of Contents
 - [Data Sets](#data-sets)
 - [Analytic Files](#analytic-files)
 ![Example Image](Chicken_of_the_Woods_Pic.jpeg)
