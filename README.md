@@ -1,9 +1,13 @@
 # Best Date to Find Chicken of the Woods Mushroom!
 ![Example Image](Chicken_of_the_Woods_Pic.jpeg)
 
-This project helps determine the date with the highest expected number of Chicken of the Woods observations among states with prior observation records on iNaturalist. The key findings are summarized in the below graphic.
+The above photo was taken by me earlier in 2024 in Rockland County New York, United States. This project helps determine the date with the highest expected number of Chicken of the Woods observations among states with prior observation records on iNaturalist. The key findings are summarized in the below graphic.
 
 ![Key_Findings](Best_Date_plot_cropped.jpg)
+
+The below gif helps to visualize all observations of Chicken of the Woods mushrooms made between January 1st, 2010 and December 31st, 2023 based on the day of the year they were observed.
+
+![Key_Findings](ChickenOfTheWoods_weekly.gif)
 
 ## DATA SETS:
 * **L_cincinnatus_observations.csv**: Observations of *Laetiporus cincinnatus* in the United States occuring prior to January 1st, 2024, queried from iNaturalist.
