@@ -11,7 +11,7 @@
 
 The above photo was taken by me earlier in 2024 in Rockland County New York, United States. This project helps determine the date with the highest expected number of Chicken of the Woods observations among states with prior observation records on iNaturalist.
 
-[**DISCLAIMER:**](color: red) Consuming wild mushrooms, plants or other material is inherently risky for health reasons as well as potentially damaging to local ecosystems. Please do not consume anything you are not 100% confident identifying and be respectful, follow local regulations and  sustainable harvesting practices if you do chose to forage (e.g., don't take something if it is the only one, don't take more than you need, get permission to harvest on private property, etc.).
+**DISCLAIMER:** Consuming wild mushrooms, plants or other material is inherently risky for health reasons as well as potentially damaging to local ecosystems. Please do not consume anything you are not 100% confident identifying and be respectful, follow local regulations and  sustainable harvesting practices if you do chose to forage (e.g., don't take something if it is the only one, don't take more than you need, get permission to harvest on private property, etc.).
 
 **Background:** An estimated 3.5 to 5.8 billion people collect non-timber forest products globally, this includes harvesting wild herbs, fruits, fungi, and more [[1](https://doi.org/10.1016/j.forpol.2021.102659)]. 
 
@@ -36,6 +36,15 @@ The animated graphic above helps to visualize all observations of Chicken of the
 
 For those interested in seeing the distribution of observations within their own state there is code available to check the individual state shared within the R Markdown file, and I've provided each state grouped by region to help illustrate trends. It is important to note that plots within a region have identical y-axis scales, and therefore states with a greater population or other factors that may contribute to having more observations may obscure trends for states with relatively fewer observations.
 
+**Northeast United States**
+
+**Midwest United States**
+
+**Southern United States**
+
+**Western United States**
+
+**Alaska and Hawaii**
 
 
 [Back to top](#best-date-to-find-chicken-of-the-woods-mushroom)
