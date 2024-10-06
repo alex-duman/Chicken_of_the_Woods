@@ -1,5 +1,5 @@
 # Best Date to Find Chicken of the Woods Mushroom!
-![Example Image](]Chicken_of_the_Woods_Pic.jpeg)
+![Example Image](Chicken_of_the_Woods_Pic.jpeg)
 
 This project helps determine the date with the highest expected number of Chicken of the Woods observations among states with prior observation records on iNaturalist. The key findings are summarized in the below graphic.
 
