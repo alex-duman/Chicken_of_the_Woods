@@ -1,8 +1,9 @@
 # Best Date to Find Chicken of the Woods Mushroom!
-![Example Image](Chicken_of_the_Woods.jpeg)
+![Example Image](Chicken_of_the_Woods/Chicken_of_the_Woods.jpeg)
+
 This project helps determine the date with the highest expected number of Chicken of the Woods observations among states with prior observation records on iNaturalist. The key findings are summarized in the below graphic.
 
-![Key_Findings](Best_Date_plot_cropped.jpeg)
+![Key_Findings](Chicken_of_the_Woods/Best_Date_plot_cropped.jpeg)
 
 ## DATA SETS:
 * **L_cincinnatus_observations.csv**: Observations of *Laetiporus cincinnatus* in the United States occuring prior to January 1st, 2024, queried from iNaturalist.
