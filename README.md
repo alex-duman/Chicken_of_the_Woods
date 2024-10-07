@@ -37,15 +37,19 @@ The animated graphic above helps to visualize all observations of Chicken of the
 For those interested in seeing the distribution of observations within their own state there is code available to check the individual state shared within the R Markdown file, and I've provided each state grouped by region to help illustrate trends. It is important to note that plots within a region have identical y-axis scales, and therefore states with a greater population or other factors that may contribute to having more observations may obscure trends for states with relatively fewer observations.
 
 **Northeast United States**
+![Northeast](NE_plots.jpeg)
 
 **Midwest United States**
+![Midwest](MW_plots.jpeg)
 
 **Southern United States**
+![Southern](S_plots.jpeg)
 
 **Western United States**
+![Western](W_plots.jpeg)
 
 **Alaska and Hawaii**
-
+![AlaskaAndHawaii](AnH_plots.jpeg)
 
 [Back to top](#best-date-to-find-chicken-of-the-woods-mushroom)
 
